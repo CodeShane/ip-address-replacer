@@ -1,8 +1,12 @@
-# <img alt="Word Replace Max" src="./assets/word-replacer-max-logo_26.png" /> Word Replacer Max
+# IP Address Replacer browser extension
 
-A browser extension for replacing text on webpages.
+WILL BE a browser extension for replacing and labelling IP Addresses on webpages (at least IPv4).
 
-## Available for [<img alt="chrome logo" src="./assets/chrome_logo.svg" /> Chrome](https://chromewebstore.google.com/detail/word-replacer-max/gnemoflnihonmkiacnagnbnlppkamfgo) and [<img alt="firefox logo" src="./assets/firefox_logo.svg" /> Firefox](https://addons.mozilla.org/en-US/firefox/addon/word-replacer-max)
+## Upstream "dan-lovelace/word-replacer-max"
+
+Fork of [dan-lovelace/word-replacer-max](https://github.com/dan-lovelace/word-replacer-max)
+
+Available for [<img alt="chrome logo" src="./assets/chrome_logo.svg" /> Chrome](https://chromewebstore.google.com/detail/word-replacer-max/gnemoflnihonmkiacnagnbnlppkamfgo) and [<img alt="firefox logo" src="./assets/firefox_logo.svg" /> Firefox](https://addons.mozilla.org/en-US/firefox/addon/word-replacer-max)
 
 <img alt="replace words and phrases" src="./assets/store-page-1.png" style="max-width: 100%; width: 410px"></img>
 <img alt="flexible domain settings" src="./assets/store-page-2.png" style="max-width: 100%; width: 410px"></img>
